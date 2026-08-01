@@ -1,9 +1,9 @@
 # This Repository Contains  Java Pattern Programs.
 # Solid Square Pattern 
-# Number Square Row Pattern
-# Number Square Column Pattern
+# Row  Number Square Pattern
 # Continuous Number Square Pattern
-# Alphabet Square Row Pattern
-#  Alphabet Square Continuous Pattern
-#  Alphabet Square Column Pattern
+# Column  Number Square Pattern
+# Row  Alphabet Square Pattern
+# Continuous Alphabet Square Pattern
+# Column  Alphabet Square Pattern
 
